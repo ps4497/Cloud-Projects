@@ -23,3 +23,11 @@ Unstructed Database used to store the restaurant details scraped from Yelp
 Used to store the indices and cuisines of the data
 ### SES
 Used to notify the users with an email containing the top 10 restaurant recommendations
+
+
+### Output Screenshots
+![](Output/Output1.PNG)
+![](Output/Output2.PNG)
+![](Output/Output3.PNG)
+![](Output/Output4.PNG)
+
