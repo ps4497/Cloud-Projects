@@ -64,8 +64,8 @@ def get_sqs_data(queue_URL):
 
 def es_search(host, query):
     credentials = boto3.Session().get_credentials()
-    awsauth = AWSRequestsAuth(aws_access_key="AKIAQXVYZVJLWFWRG3DS",
-                      aws_secret_access_key="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",
+    awsauth = AWSRequestsAuth(aws_access_key=" ",
+                      aws_secret_access_key=" ",
                       aws_host=host,
                       aws_region='us-east-1',
                       aws_service='es')
