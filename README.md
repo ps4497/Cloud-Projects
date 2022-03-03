@@ -1,5 +1,7 @@
 # Cloud-Projects
 
+![](images/Architecturediagram.PNG)
+
 ## Components
 ### S3 Bucket
 Used to deploy the front-end starter application to interface with the chatbot
