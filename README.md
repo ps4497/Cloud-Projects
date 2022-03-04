@@ -1,6 +1,6 @@
 # Cloud-Projects
 
-![](images/Architecturediagram.PNG)
+![](Output/Architecturediagram.PNG)
 
 ## Components
 ### S3 Bucket
